@@ -6,6 +6,7 @@ pragma solidity ^0.8.20;
 import {Context} from "@openzeppelin/contracts/utils/Context.sol";
 import {Initializable} from "../proxy/utils/Initializable.sol";
 
+// @note - Reviewed
 /**
  * @dev Contract module which provides a basic access control mechanism, where
  * there is an account (an owner) that can be granted exclusive access to
